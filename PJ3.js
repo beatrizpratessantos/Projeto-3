@@ -52,7 +52,7 @@ const alunoPrototipo = new Aluno(
     "Protótipo",
     0,
     "Desenvolvimento de Software Multiplataforma",
-"FATEC Luigi Papaiz",
+    "FATEC Luigi Papaiz",
     "Manhã"
 );
 
